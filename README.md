@@ -1,3 +1,3 @@
-# Context React Blog
+# Redux-ish React Blog
 
-Refactored version of the simple blog. Uses the react context api to manage state. Refactored components to reduce prop drilling. Uses json-server as a database.
+Third in a series of react apps to reaquint myself with the tools and practices. Refactored version of the context blog to use a Redux package.
